@@ -1,0 +1,1 @@
+import{i as e}from"./jsx-runtime-DUAcabCT.js";import{t}from"./react-DEX2qfRi.js";var n=e(t(),1),r=n.createContext(null);function i(e){return n.useContext(r)}export{r as n,i as t};
